@@ -2,6 +2,8 @@
 
 A web application that helps users track purchases, store receipts, and manage return deadlines. Features AI-powered receipt scanning using Google Gemini to auto-populate receipt details from photos.
 
+Demo: https://youtu.be/494a7g40F-4
+
 ## How It Works
 
 1. **Register/Login** - Create an account or sign in. Passwords are hashed with bcrypt and a JWT token is issued for session management.
