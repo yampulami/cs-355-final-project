@@ -12,6 +12,10 @@ Demo: https://youtu.be/494a7g40F-4
 4. **Dashboard** - View spending summaries, items expiring soon, and category breakdowns at a glance.
 5. **Profile** - Update account details, change password, or delete your account.
 
+## PWA Support
+
+ReceiptTrack is installable as a Progressive Web App. Open it in Chrome or Edge and use the "Install app" prompt in the address bar to add it to your home screen or desktop.
+
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (no frameworks)
